@@ -32,7 +32,7 @@ Sample Output 2 :
 1 3 2
 */
 
-void arrange(int *arr,  int n)
+void arrange(int *arr,    int n)
 {
     int i=0;
 
