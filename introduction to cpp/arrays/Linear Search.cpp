@@ -50,5 +50,5 @@ int linearSearch(int *arr, int n, int x)
         i++;
        
     }
-    return -1;
+    return    -1;
 }
